@@ -1,6 +1,6 @@
 # TYPE PLAYGROUND
 
-Live: https://rama-alsabban.github.io/type-playground/
+Live: https://rama-alsabban.github.io/Type-Playground/
 
 An experimental typography playground where you shape letters by describing what you want, not by moving sliders.
 
@@ -73,8 +73,8 @@ It's a static page, so nothing needs to be installed.
 
 ```bash
 # any static server works
-git clone https://github.com/Rama-alsabban/type-playground
-cd type-playground
+git clone https://github.com/Rama-alsabban/Type-Playground
+cd Type-Playground
 python3 -m http.server 8000
 # then open http://localhost:8000
 ```
